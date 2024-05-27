@@ -3,27 +3,9 @@
 Soluções para desafios da maratona de programação das Fatecs em 2024.
 
 ## Equipe AMS_TeamONE
-
-<div style="display: flex; gap: 6px; width: 70%">
-  <div>
-    <a href="https://github.com/AgataCeci">
-      <img src="https://avatars.githubusercontent.com/u/129690783?v=4" style="border-radius: 50%" />
-    </a>
-    <h2>Ágata Cecília</h2>
-  </div>
-  <div>
-    <a href="https://github.com/jorgeterence">
-      <img src="https://avatars.githubusercontent.com/u/79718398?v=4" style="border-radius: 50%" />
-    </a>
-    <h2>Jorge Terence</h2>
-  </div>
-  <div>
-    <a href="https://github.com/sarahamelo">
-      <img src="https://avatars.githubusercontent.com/u/128179357?v=4" style="border-radius: 50%" />
-    </a>
-    <h2>Sarah Melo</h2>
-  </div>
-</div>
+| Ágata Cecília | Jorge Terence | Sarah Melo |
+| ------------- | ------------- | ---------- |
+|[![Ágata Cecília](https://avatars.githubusercontent.com/u/129690783?v=4)](https://github.com/AgataCeci)|[![Jorge Terence](https://avatars.githubusercontent.com/u/79718398?v=4)](https://github.com/jorgeterence)|[![Sarah Melo](https://avatars.githubusercontent.com/u/128179357?v=4)](https://github.com/sarahamelo)|
 
 ## Sobre os exercícios
 
