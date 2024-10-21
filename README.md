@@ -12,4 +12,4 @@ Soluções para desafios da maratona de programação das Fatecs em 2024.
 As questões originais estão disponíveis em `caderno-de-questões.pdf`. No diretório `original` estão as respostas formuladas durante as 5 horas da maratona, sem qualquer alteração. Em `revisão` estão as soluções otimizadas e melhor documentadas.
 
 > [!NOTE]
-> Se estiver estudando para a maratona, deixe uma estrela e siga os integrantes! Com sorte nos vemos na segunda fase :)
+> Se estiver estudando para a maratona, deixe uma estrela e siga os integrantes! Acompanhe-nos em 2025 também :) !
